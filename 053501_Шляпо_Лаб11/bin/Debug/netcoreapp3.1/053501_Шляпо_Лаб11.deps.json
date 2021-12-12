@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "053501_Шляпо_Лаб11/1.0.0": {
+        "dependencies": {
+          "Auto": "1.0.0",
+          "Proj1": "1.0.0"
+        },
+        "runtime": {
+          "053501_Шляпо_Лаб11.dll": {}
+        }
+      },
+      "Auto/1.0.0": {
+        "runtime": {
+          "Auto.dll": {}
+        }
+      },
+      "Proj1/1.0.0": {
+        "runtime": {
+          "Proj1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "053501_Шляпо_Лаб11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Proj1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
